@@ -1,1 +1,1 @@
-Staged means that you have marked a modified file in its current version to go into your next commit snapshot. Committed means that the data is safely stored in your local database.
+This file is updated in Visual Studio then pushed it into the Github
