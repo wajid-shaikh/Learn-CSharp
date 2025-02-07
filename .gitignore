@@ -1,0 +1,57 @@
+# Ignore Visual Studio temporary files, build results, and personal settings
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+out/
+
+# Ignore JetBrains Rider project settings
+.idea/
+
+# Ignore logs, database, and test results
+*.log
+*.tlog
+*.cache
+*.db
+TestResults/
+
+# Ignore package management
+node_modules/
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore compiled DLLs and EXEs
+*.dll
+*.exe
+*.pdb
+
+# Ignore secrets and configuration files
+appsettings*.json
+secrets.json
+
+# Ignore NuGet restore
+project.lock.json
+project.assets.json
+
+# Ignore sitecore items (if using Sitecore)
+sitecore/
+
+# Ignore Recycle Bin
+$RECYCLE.BIN/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows thumbnail cache
+Thumbs.db
+
+# Ignore Rider workspace files
+.idea/
+*.iml
